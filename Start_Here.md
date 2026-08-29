@@ -91,15 +91,21 @@ Select the Flutter SDK installation folder.
 Example only:
 
 ```text
-E:\Flutter
+C:\Flutter
 ```
 
 Do not copy this example blindly. Select the actual Flutter installation on your computer.
 
-The Dart SDK should then be detected automatically from:
+Select the Dart folder just above the Flutter
+Settings → Languages & Frameworks → Dart
 
+Check the Enable Dart Support check boX
+
+In the dart SDK path enter a similiar path like below
+
+Example only:
 ```text
-<Flutter SDK>\bin\cache\dart-sdk
+C:\Flutter\bin\cache\dart-sdk
 ```
 
 ## 6. Confirm that the project opens correctly
